@@ -1,0 +1,19 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="my_site.my_sit" />
+          <option value="myapp.urls.views" />
+          <option value="demoproject.urls.*" />
+          <option value="django.contrib.sites.admin.site" />
+          <option value="todoapp.urls.complete" />
+          <option value="django.core.checks.messages.info" />
+          <option value="django.contrib.messages1" />
+          <option value="todoapp.views.messages1" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
